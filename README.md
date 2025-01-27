@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+My name is Laura and I am learning how to use GitHub!
 <!--
 **laura-white/laura-white** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
